@@ -1,0 +1,3 @@
+S=input()
+a=set(S)
+print(len(a))
